@@ -37,7 +37,10 @@
  * 🦉🦉[微信小程序](https://github.com/Superljf/Wx-snacksShop)
    - 一个微信小程序demo，收货了很多星星💖.
 
-
+## 联系我
+- 🪴[GitHub](https://github.com/Superljf)
+- 🌴[JueJin](https://juejin.cn/user/1697301685866078)
+  
   
    
 
