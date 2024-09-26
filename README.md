@@ -1,13 +1,13 @@
 # 前端设计诗
 从2019年开始coding，坚持使用React.
-* 💻  React好手
-* 🌍  Vue马上上手
-* ✉️  细节控 喜欢设计优美的小交互
-* 🫎 Prompt Engineering ChatGPT&&Claude
+* 🫏  React好手
+* 🐐  Vue马上上手
+* 🦥  细节控 喜欢设计优美的小交互
+* 🫎 Prompt Engineering ChatGPT && Claude
   
  
 
-### 有趣的项目
+### 🐣有趣的项目
 * [Tab_Collector](https://github.com/Superljf/Tab_Collector)🛍️🛍️
    - 一个使用React开发的实用的谷歌扩展程序，不信你可以试试.
 
