@@ -1,11 +1,11 @@
 # 前端设计诗
 从2019年开始coding，坚持使用React.
-* 🫏  React好手
-* 🐐  Vue马上上手
+* 🫏  React高手
+* 🐐  Vue好手
 * 🐦‍⬛  SPA H5 Hybrid_App 跨端好手
 * 🐝 大数据可视化 为国家医改监测分析和三明医改做出过贡献
 * 🦥  细节控 喜欢设计优美的小交互
-* 🦂 喜欢TDD 端对端测试 奈何时间不允许
+* 🦂 TDD 端对端测试 
 * 🕷️ SPA 喜欢用Webpack H5习惯用Vite
 * 🪸 习惯了npm 当然其他也行
 * 🫎 Prompt Engineering ChatGPT && Claude
@@ -28,8 +28,8 @@
  * 🦚🦚[Taro-React](https://github.com/Superljf/Taro-React-template)
    - 如果你之前H5使用的是React技术栈，现在突发奇想做一个微信小程序了，你可以试试Taro，多端适用，一键上手.
 
- * 🦚🦚[国家医改监测分析 && 三明医改]()
-   - 如果你不知道三明医改和大数据的联系，可以搜搜看，了解下国家医改&&三明医改的路程😈.
+ * 🦫🦫[国家医改监测分析 && 三明医改]()
+   - 如果你不知道三明医改和大数据的联系，可以搜搜看，了解下国家医改&&三明医改的路程🐾.
   
  * 🌵🌵[ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
    - 如果你也对Prompt Engineering 感兴趣，可以试试这个项目🪹.
