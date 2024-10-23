@@ -1,10 +1,11 @@
 # 前端设计诗
 从2019年开始coding，坚持使用React.
-* 🫏  React高手
-* 🐐  Vue好手
-* 🐦‍⬛  SPA H5 Hybrid_App 跨端强手
+* 🫏 React高手
+* 🍈 Next.js  
+* 🐐 Vue好手
+* 🐦‍⬛ SPA H5 Hybrid_App 跨端强手
 * 🐝 善于大数据可视化 为国家医改监测分析和三明医改做出过贡献
-* 🦥  细节控 喜欢设计优美的小交互
+* 🦥 细节控 喜欢设计优美的小交互
 * 🦂 TDD 端对端测试 
 * 🕷️ SPA 喜欢用Webpack H5习惯用Vite
 * 🪸 习惯了npm 当然其他也行
