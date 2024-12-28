@@ -8,8 +8,8 @@
 * 🦥 喜欢实现优美的小交互
 * 🦂 TDD 端对端测试 
 * 🕷️ SPA 喜欢用Webpack H5习惯用Vite
-* 🪸 习惯了npm 当然其他也行
-* 🫎 Prompt Engineering ChatGPT && Claude
+* 🪸 npm 
+* 🫎 Prompt Engineering ChatGPT && Claude && Cursor && Wildsurf
   
  
 
